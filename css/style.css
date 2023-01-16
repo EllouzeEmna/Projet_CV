@@ -1,0 +1,129 @@
+*{
+    background-color: rgb(247, 193, 178);
+}
+header{
+    /* background-color:rgb(179, 154, 124); */
+    /* width:1000px; */
+    margin:auto;
+    text-align: center;
+    color: black;
+}
+nav{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+nav a{
+    color: black;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    width: 120px;
+    text-align: center;
+    margin:20px;
+    padding: 20px;
+    display: inline-block; 
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color:  rgb(244, 163, 140);
+}
+a:hover{
+    color:rgb(243, 69, 69)
+}
+/* section{
+    background-color: aqua;
+} */
+section table{
+    text-align: center;
+    margin:auto;
+    font-size: x-large;
+    /* margin:40px;
+    padding: 40px; */
+    padding-top:30px;
+    padding-bottom: 600px;
+}
+#vrai{
+    font-style: oblique;
+    font-size: large;
+    
+    color: red;
+}
+.quizz{
+    width: 100%;
+    /* height: 100%; */
+}
+.choix{
+    text-align: left;
+}
+#btn{
+    text-align: center;
+    margin:auto;
+    font-size: large;
+    margin:30px;
+    padding: 30px;
+    display: inline-block; 
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color:  rgb(194, 13, 13);
+    /* padding-top:0px;
+    padding-bottom: 0px; */
+
+}
+/* .formationtab{
+    text-align: center;
+    margin:auto;
+    padding-bottom: 0px;
+} */
+p{
+    font-size: 20px;
+
+}
+#pp{
+    margin: auto;
+    text-align: center;
+}
+img{
+    width: 700px;
+    height: 700px;
+    /* float: right; */
+}
+#rs{
+    width: 50px;
+    height: 50px;
+}
+h1{
+    color: rgb(145, 9, 9);
+    font-size:xx-large;
+    font-style:oblique;
+}
+.annee {
+    padding-left: 100px;
+    padding-right: 100px;
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}
+.formation{
+    margin: auto;
+    text-align: center;
+    padding-top:100px;
+    /* padding-bottom: 100px; */
+}
+.comp{
+    background-color: rgb(238, 193, 166);
+    margin: auto;
+    text-align: center;
+}
+ul {
+    font-size: larger;
+    padding-left: 900px;
+}
+.expp{
+    margin: auto;
+    text-align: center;
+    padding-top:190px;
+}
+.pad{
+    padding-top:190px;
+}
